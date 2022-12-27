@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kashifriazgh
 - 👀 I’m interested in MERN Technology
-- 🌱 I’m currently learning NODEJS and REACTJS
+- 🌱 I’m currently working in  Reactjs/NextJS alongwith core JS, CSS and HTML
 - 💞️ I’m looking to collaborate on Front-end projects
 - 📫 How to reach me via email kashifriazgh@gmail.com and twitter @kashifriazgh 
 
